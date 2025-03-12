@@ -2,15 +2,19 @@
 
 ###
 
-<p align="left">I´m  AppSiDaL</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+```javascript
+const AppSiDaL = {
+  greatings: () => "Hello, World! I'm AppSiDaL",
+  aboutMe: {
+    age: 21,
+    location: "Mexico",
+    hobbies: ["gaming", "reading", "music"],
+  },
+  askMeAbout: ["web dev", "tech", "app dev"],
+  graduatedAs: "Computer Systems Engineer",
+  gratuadedFrom: "Tecnológico de Estudios Superiores de Jocotitlán (TESJo)",
+};
+```
 
 ###
 
